@@ -1,4 +1,6 @@
-﻿*CapsLock::
+﻿#NoTrayIcon
+
+*CapsLock::
 	Send {LControl down}
 	Return
 *CapsLock up::
