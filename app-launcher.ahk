@@ -1,3 +1,4 @@
 #NoTrayIcon
-; launch terminal
-Alt & Enter::Run, wt
+
+!Enter::Run, wt
+!+b::Run, chrome.exe
